@@ -3,6 +3,10 @@ package comSno1.harsha.interfaces;
 public class User {
 
 	public static void main(String[] args) {
+		//Buying lenovo laptop means lenovo class is creating object
+		
+		//create a class for user to access the laptop features (Buying)
+		
 		Lenovo lenovo = new Lenovo();
 		lenovo.copy();
 		lenovo.cut();
@@ -16,6 +20,8 @@ public class User {
 		hp.paste();
 		hp.printing();
 		System.out.println();
+		
+		
 		System.out.println("untill java7");
 		
 		                                                   

@@ -14,6 +14,8 @@ public class BufferedWriterprogram3 {
 //			file.delete();
 //		file.createNewFile();
 		
+		
+		//Add a text to existing text file (append)
 		String existingText = new String();
 		String line = "";
 		BufferedReader br = new BufferedReader(new FileReader(file));

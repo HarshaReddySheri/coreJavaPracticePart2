@@ -12,9 +12,10 @@ public class ExceptionHandlingNotes {
 	 * 5.How to use try,catch, finally blocks?
 	 * 6.How to use throw & throws keyWorks?
 	 * 7.Hierarchy of exceptions in java?
+	 * 8.Eclipse shortCut for exception handling?
 	 * 
 	 */
-	
+
 	/*
 	 * 1Ans 
 	 * Exception is an event that occurs during the execution of a program that disrupts or stop the normal flow of instructions
@@ -111,7 +112,7 @@ public class ExceptionHandlingNotes {
 	 * 
 	 * 
 	 */
-	
+
 	/*
 	 * Hierarchy of exception in java
 	 * ******************************
@@ -127,5 +128,19 @@ public class ExceptionHandlingNotes {
 	 * 				*SQLException
 	 * 
 	 */
-			
+
+	/*
+	 * Eclipse shortCut for exception handling?
+	 * 
+	 * short 1
+	 * ********
+	 * Select the code line & right click on it & click on surround with option you get it
+	 * 
+	 * short 2
+	 * *******
+	 * try - Ctrl + space
+	 * you get a shuddle
+	 * 
+	 */
+
 }
